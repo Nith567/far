@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <div>
-      <h1>Basic Frame</h1>
+      <h1>Gallery Frame</h1>
     </div>
   )
 }
