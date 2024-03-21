@@ -13,6 +13,7 @@ export const metadata: Metadata = {
     'fc:frame:image': `${process.env.NEXT_PUBLIC_SITE_URL}/site-preview.jpg`,
     'fc:frame:post_url': `${process.env.NEXT_PUBLIC_SITE_URL}/api/basic?id=1`,
     'fc:frame:button:1': 'START NOW!!!',
+    'of:accepts:xmtp': '2024-02-01',
   },
 }
 
