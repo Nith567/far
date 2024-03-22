@@ -18,7 +18,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
 
     <meta property="fc:frame:button:1" content="View Tutorial" />
     <meta property="fc:frame:button:1:action" content="link" />
-    <meta property="fc:frame:button:1:target" content="https://github.com/Harshavr14" />
+    <meta property="fc:frame:button:1:target" content="https://github.com/Nith567/far" />
 
     <meta property="fc:frame:button:2" content="Restart" />
     <meta property="fc:frame:button:2:action" content="post" />
