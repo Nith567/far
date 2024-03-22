@@ -13,6 +13,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
     <title>This is frame 4</title>
     <meta property="og:image" content="${process.env.NEXT_PUBLIC_SITE_URL}/harsha-4.png" />
     <meta property="fc:frame" content="vNext" />
+    <meta property="of:accepts:xmtp" content="2024-02-01" />
     <meta property="fc:frame:image" content="${process.env.NEXT_PUBLIC_SITE_URL}/harsha-4.png" />
 
     <meta property="fc:frame:button:1" content="View Tutorial" />
@@ -30,6 +31,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
     <title>This is frame ${id}</title>
     <meta property="og:image" content="${process.env.NEXT_PUBLIC_SITE_URL}/harsha-${id}.png" />
     <meta property="fc:frame" content="vNext" />
+    <meta property="of:accepts:xmtp" content="2024-02-01" />
 
     <meta property="fc:frame:image" content="${process.env.NEXT_PUBLIC_SITE_URL}/harsha-${id}.png" />
     <meta property="fc:frame:button:1" content="Next iMAGE" />
